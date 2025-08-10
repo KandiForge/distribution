@@ -1,3 +1,5 @@
+![Kandi CLI Logo](kandi-icon.png)
+
 # KandiForge Homebrew Tap
 
 This is the official Homebrew tap for Kandi CLI, an AI-assisted software development CLI tool.
