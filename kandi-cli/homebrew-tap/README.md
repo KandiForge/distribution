@@ -23,7 +23,7 @@ brew install KandiForge/kandi-cli/kandi
 
 ## Documentation
 
-For more information, visit the [Kandi CLI releases repository](https://github.com/KandiForge/kandi-cli-osx).
+For more information, visit the [Kandi CLI releases repository](https://github.com/KandiForge/kandi-cli-releases).
 
 ## License
 
