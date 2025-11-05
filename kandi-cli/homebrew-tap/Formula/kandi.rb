@@ -1,10 +1,10 @@
 class Kandi < Formula
   desc "AI-assisted software development CLI with interactive chat and 26 built-in tools"
-  homepage "https://github.com/KandiForge/kandi-cli-releases"
-  url "https://github.com/KandiForge/kandi-cli-releases/releases/download/v1.0.2/kandi-cli-v1.0.2-macos-universal.tar.gz"
-  sha256 "59324b01d7ec9ce0ffc50c6c60ce0c36aa475817481ec9553e2b7d1e1b705eb3"
+  homepage "https://github.com/KandiForge/apps"
+  url "https://github.com/KandiForge/apps/releases/download/cli-v8.0.1/kandi-cli-v8.0.1-macos-universal.tar.gz"
+  sha256 "68d75c3e4cf845f817e222aee6ed439926ade217d32975af0fa97dfd81b872d6"
   license "Proprietary"
-  version "1.0.2"
+  version "8.0.1"
 
   depends_on "ripgrep" => :optional  # For enhanced search functionality
 
@@ -20,24 +20,24 @@ class Kandi < Formula
   def caveats
     <<~EOS
       To get started with Kandi CLI:
-      
+
       1. Set up your API keys:
          kandi config set anthropic.api_key "your-api-key"
          kandi config set openai.api_key "your-api-key"
          kandi config set github.token "your-token"
-      
+
       2. Start an interactive chat session:
          kandi chat --allow-all
-      
+
       3. Execute a coding task:
          kandi code "Create a Python script that prints hello world"
-      
+
       4. Run a spec file:
          kandi exec-spec /path/to/spec.md
-      
+
       Configuration is stored in: #{var}/kandi/config.yaml
-      
-      For more information, visit: https://github.com/KandiForge/kandi-cli-releases
+
+      For more information, visit: https://github.com/KandiForge/apps
     EOS
   end
 
