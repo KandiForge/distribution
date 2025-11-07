@@ -1,7 +1,7 @@
 class Kandi < Formula
   desc "AI-assisted software development CLI with interactive chat and 26 built-in tools"
   homepage "https://github.com/KandiForge/apps"
-  url "https://raw.githubusercontent.com/KandiForge/distribution/main/kandi-cli/binaries/kandi-cli-v9.2.0-macos-universal.tar.gz"
+  url "https://github.com/KandiForge/apps/releases/download/kandi-cli-v9.2.0/kandi-cli-v9.2.0-macos-universal.tar.gz"
   sha256 "ffa5f4c6ecfc5bcce74ad5cb28806ef0bd8cf010ddfc9f6d6aef8045d6fb0d9c"
   license "Proprietary"
   version "9.2.0"
