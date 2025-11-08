@@ -1,10 +1,10 @@
 class Supersmall < Formula
   desc "Context optimization CLI tool with SuperSmall API integration"
   homepage "https://supersmall.dev"
-  url "https://github.com/KandiForge/distribution/releases/download/supersmall-v5.2.1/supersmall-cli-v5.2.1-macos-universal.tar.gz"
-  sha256 "efdf9613dfa5345d832bae11bd8706cb7613ac9035c4713bf1097eb27ead7f10"
+  url "https://github.com/KandiForge/distribution/releases/download/supersmall-v5.3.0/supersmall-cli-v5.3.0-macos-universal.tar.gz"
+  sha256 "944cb879012aefc43877701809b27e5ac6fcf02afb317e4292aa083cbd318c29"
   license "MIT"
-  version "5.2.1"
+  version "5.3.0"
 
   def install
     bin.install "supersmall"
