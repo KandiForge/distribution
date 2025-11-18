@@ -1,10 +1,10 @@
 class Spectacle < Formula
   desc "Multi-service platform with server and CLI tools for AI-assisted development"
   homepage "https://github.com/KandiForge/apps"
-  url "https://github.com/KandiForge/distribution/releases/download/spectacle-v0.3.17/spectacle-v0.3.17-macos-universal.tar.gz"
-  sha256 "d947a9495172dfb6fcf86da1aee215a06a8c16de5457dc31639be997cb298b81"
+  url "https://github.com/KandiForge/distribution/releases/download/spectacle-v0.3.18/spectacle-v0.3.18-macos-universal.tar.gz"
+  sha256 "43ad196e3be11811119f99417efa05228a52e4c13d47228b9717fa683ede7e2d"
   license "Proprietary"
-  version "0.3.17"
+  version "0.3.18"
 
   depends_on "ripgrep" => :optional  # For enhanced search functionality
 
