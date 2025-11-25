@@ -1,4 +1,7 @@
 version: 4.2.57
-path: KandiForge-Setup-4.2.57-x64.exe
+files:
+  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.57/KandiForge-Setup-4.2.57-x64.exe
+    sha512: zhTdKJKYcfkctb8a7j/5c0xVp6iNwgDfLttEXbEp5oKkM+OPvyFCshYTrejHDlT2b3fKRAStB3bNyuDx/LTULw==
+path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.57/KandiForge-Setup-4.2.57-x64.exe
 sha512: zhTdKJKYcfkctb8a7j/5c0xVp6iNwgDfLttEXbEp5oKkM+OPvyFCshYTrejHDlT2b3fKRAStB3bNyuDx/LTULw==
 releaseDate: 2025-11-25T21:02:58.136Z
