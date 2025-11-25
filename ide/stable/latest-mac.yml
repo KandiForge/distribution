@@ -1,0 +1,8 @@
+version: 4.2.55
+files:
+  - url: KandiForge-4.2.55-arm64.zip
+    sha512: R5H9kvGHq8kgngVZHqr1gxAPndLTIMtkpi2aimI8lZRLjXV45ffQP8c4TcUakuBUFfaZDXg9cerLUCD6WFWyPw==
+    size: 331373296
+path: KandiForge-4.2.55-arm64.zip
+sha512: R5H9kvGHq8kgngVZHqr1gxAPndLTIMtkpi2aimI8lZRLjXV45ffQP8c4TcUakuBUFfaZDXg9cerLUCD6WFWyPw==
+releaseDate: 2025-11-25T06:38:09.320Z
