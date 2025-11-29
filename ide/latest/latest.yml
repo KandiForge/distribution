@@ -1,9 +1,9 @@
-version: 4.2.65
+version: 4.2.66
 files:
-  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.65/KandiForge-Setup-4.2.65-x64.exe
-    sha512: jCu2Z9wVM5BM3kWLu8I9EdJ6ntfDPpb5y5ScnoMQwplY6Y/vmviDVFxsJLLaS+WZ9BAyhy3NXG8LQwhXTgZSuA==
-    size: 322759008
-    blockMapSize: 324234
-path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.65/KandiForge-Setup-4.2.65-x64.exe
-sha512: jCu2Z9wVM5BM3kWLu8I9EdJ6ntfDPpb5y5ScnoMQwplY6Y/vmviDVFxsJLLaS+WZ9BAyhy3NXG8LQwhXTgZSuA==
-releaseDate: 2025-11-27T06:49:47.684Z
+  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.66/KandiForge-Setup-4.2.66-x64.exe
+    sha512: jEfXNx8+n+0iOewrpZUyEkqEZOwT+GoszKoIL2ol/nPnnA4pbfQ5RaA7poCvSsV2tmOFwaDBqifpZTHlZnVRAQ==
+    size: 233539888
+    blockMapSize: 244007
+path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.66/KandiForge-Setup-4.2.66-x64.exe
+sha512: jEfXNx8+n+0iOewrpZUyEkqEZOwT+GoszKoIL2ol/nPnnA4pbfQ5RaA7poCvSsV2tmOFwaDBqifpZTHlZnVRAQ==
+releaseDate: 2025-11-29T07:26:17.295Z
