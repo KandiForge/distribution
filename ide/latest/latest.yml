@@ -1,9 +1,9 @@
-version: 4.2.67
+version: 4.2.70
 files:
-  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.67/KandiForge-Setup-4.2.67-x64.exe
-    sha512: q6AFNEfwYIXj6QRle393QODXELqSWDOMi7skpBijY50uiLs3PwFvQU5t36u4u9ttFSbf7WKtaBfyOBrjd3nnDA==
-    size: 233542512
-    blockMapSize: 243901
-path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.67/KandiForge-Setup-4.2.67-x64.exe
-sha512: q6AFNEfwYIXj6QRle393QODXELqSWDOMi7skpBijY50uiLs3PwFvQU5t36u4u9ttFSbf7WKtaBfyOBrjd3nnDA==
-releaseDate: 2025-11-29T19:29:06.750Z
+  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.70/KandiForge-Setup-4.2.70-x64.exe
+    sha512: EEpYNcE04A7oTGj3l1CtBJ8ai33IO28fDfy+5tLCHlC4ekupP6nVEV1gXOGvzOmxpOxHTeSHxv/854litn437w==
+    size: 371966624
+    blockMapSize: 338660
+path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.70/KandiForge-Setup-4.2.70-x64.exe
+sha512: EEpYNcE04A7oTGj3l1CtBJ8ai33IO28fDfy+5tLCHlC4ekupP6nVEV1gXOGvzOmxpOxHTeSHxv/854litn437w==
+releaseDate: 2025-11-29T23:49:39.795Z
