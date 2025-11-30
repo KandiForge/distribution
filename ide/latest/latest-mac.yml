@@ -1,9 +1,9 @@
-version: 4.2.71
+version: 4.2.72
 files:
-  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.71/KandiForge-4.2.71-arm64.zip
-    sha512: ntokf3Gn8yBVsRh6EhwU4w5b8vNVRwsLaqu47HRLVGP6gE4oWuHQEc/fV0xy61+a22axkIFyW0k83lcqtDF8qw==
-    size: 278650119
-    blockMapSize: 287023
-path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.71/KandiForge-4.2.71-arm64.zip
-sha512: ntokf3Gn8yBVsRh6EhwU4w5b8vNVRwsLaqu47HRLVGP6gE4oWuHQEc/fV0xy61+a22axkIFyW0k83lcqtDF8qw==
-releaseDate: 2025-11-30T20:39:21.592Z
+  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.72/KandiForge-4.2.72-arm64.zip
+    sha512: 6lNZBo98Cu1Sna+vm1YMIDilFcP7QhOE2fTB7Eit7Z69w9CGIoVRpzAHC5KatrBoRhDOj0BiGeKWTTWDSkKJOw==
+    size: 278651495
+    blockMapSize: 286411
+path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.72/KandiForge-4.2.72-arm64.zip
+sha512: 6lNZBo98Cu1Sna+vm1YMIDilFcP7QhOE2fTB7Eit7Z69w9CGIoVRpzAHC5KatrBoRhDOj0BiGeKWTTWDSkKJOw==
+releaseDate: 2025-11-30T23:56:01.724Z
