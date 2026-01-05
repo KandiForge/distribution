@@ -1,9 +1,9 @@
-version: 4.2.79
+version: 4.2.91
 files:
-  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.79/KandiForge-Setup-4.2.79-x64.exe
-    sha512: d/TP0qbf0dXmrDmy/yaTfGzdXmGoKYFOmMT3ccJggDgPYxweeRqcNveytNdHoBTFCKQbyNQAbXCr4F+1OiGR9A==
-    size: 163082736
-    blockMapSize: 172958
-path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.79/KandiForge-Setup-4.2.79-x64.exe
-sha512: d/TP0qbf0dXmrDmy/yaTfGzdXmGoKYFOmMT3ccJggDgPYxweeRqcNveytNdHoBTFCKQbyNQAbXCr4F+1OiGR9A==
-releaseDate: 2025-12-06T08:25:25.902Z
+  - url: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.91/KandiForge-Setup-4.2.91-x64.exe
+    sha512: Tpm6xFYlJTznYUutvZoFHs8qXpivEVwuRNQTLGjo4Pxyl5C3+Lf2xKfcbyUP+9u68Zd7JRNSxW3/gHmS3ocUPA==
+    size: 166987240
+    blockMapSize: 175710
+path: https://github.com/KandiForge/distribution/releases/download/ide-v4.2.91/KandiForge-Setup-4.2.91-x64.exe
+sha512: Tpm6xFYlJTznYUutvZoFHs8qXpivEVwuRNQTLGjo4Pxyl5C3+Lf2xKfcbyUP+9u68Zd7JRNSxW3/gHmS3ocUPA==
+releaseDate: 2026-01-05T20:19:00.596Z
