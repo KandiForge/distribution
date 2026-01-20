@@ -1,19 +1,19 @@
 {
-  "version": "0.58.35",
-  "notes": "Kandi Terminal v0.58.35",
-  "pub_date": "2026-01-17T00:58:11.628Z",
+  "version": "0.58.37",
+  "notes": "Kandi Terminal v0.58.37",
+  "pub_date": "2026-01-20T06:35:09.029Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUVCSVBnRlhmcmRjd1RiYW1aTkhZNXpvSkR0RXBOTjhMeTF1eXh2c1A3eTA2d2JJN0thZUlGMHdCM2l6Z1V4WEFuS1pRQzBuYXVsZ3V1aFpPUFdkdmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjEwMTQwCWZpbGU6S2FuZGlUZXJtaW5hbC5hcHAudGFyLmd6Ck4xUDU0V0tkdkFVT0tJdFZXVnlsY1VzalEreWVWU053cm01RGJ0Y3lZTVdHSXEwaC9VN0g4ODNGTlVjT1c0M2hoMWpuTmtIRTJGWHgxUngxTDBBU0NRPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/terminal-v0.58.35/KandiTerminal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUwvSGVJN0dNVFA1WjZLMW43QWVtcVhQdStRMTFobndOeFpFVXJ6Vm52RE40QTlpK0ZyQ1RDV3hOYTNyS0xIT2pMZktkdDlPQ01xUTZ6VUhxNEFrNXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODkwODYyCWZpbGU6S2FuZGlUZXJtaW5hbC5hcHAudGFyLmd6CmlxRjJjLzBFL29ldDdWVm1mVnZNUjFrcUtGUSsvY0tubFRkTlRCeWdxN2t4NHZpeDNUTnozY2xnRmNvN0dJaGlHQ0E4Qk1zWkQ0WGl0K3U2Rm9LWkJnPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/terminal-v0.58.37/KandiTerminal.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUVCSVBnRlhmcmRjd1RiYW1aTkhZNXpvSkR0RXBOTjhMeTF1eXh2c1A3eTA2d2JJN0thZUlGMHdCM2l6Z1V4WEFuS1pRQzBuYXVsZ3V1aFpPUFdkdmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjEwMTQwCWZpbGU6S2FuZGlUZXJtaW5hbC5hcHAudGFyLmd6Ck4xUDU0V0tkdkFVT0tJdFZXVnlsY1VzalEreWVWU053cm01RGJ0Y3lZTVdHSXEwaC9VN0g4ODNGTlVjT1c0M2hoMWpuTmtIRTJGWHgxUngxTDBBU0NRPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/terminal-v0.58.35/KandiTerminal.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUwvSGVJN0dNVFA1WjZLMW43QWVtcVhQdStRMTFobndOeFpFVXJ6Vm52RE40QTlpK0ZyQ1RDV3hOYTNyS0xIT2pMZktkdDlPQ01xUTZ6VUhxNEFrNXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODkwODYyCWZpbGU6S2FuZGlUZXJtaW5hbC5hcHAudGFyLmd6CmlxRjJjLzBFL29ldDdWVm1mVnZNUjFrcUtGUSsvY0tubFRkTlRCeWdxN2t4NHZpeDNUTnozY2xnRmNvN0dJaGlHQ0E4Qk1zWkQ0WGl0K3U2Rm9LWkJnPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/terminal-v0.58.37/KandiTerminal.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUxnSUtHMGNOd2ExVFhMT21vUTdYTmxaYWVyWnYza0hHUEZjUTZRbzFIc2tLN2JWUkRrVHVJVVVFUGtzQ1VkVTMrYnQxQW0xN2dhcHlOZVUxV21TdUFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjExMjY2CWZpbGU6S2FuZGlUZXJtaW5hbF8wLjU4LjM1X3g2NC1zZXR1cC5leGUKY2s2Y3AxR2l0bGp3WTFtL1V6TVlGaHJIYjBDbG5KaTFvczhXbUVzbllMdWgrc2tJMnY3ZlR1NllvM1B0eFVucWE2anVleDI0STVUVFRTYWlaa0lBQWc9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/terminal-v0.58.35/KandiTerminal_0.58.35_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUZxWlAzS1NJN3hZaG9FMFFnbEV2cW5tRXhoRGtGekFGYk1oWUdPSjlKanZaQkJTems1eXF5SHpKYlFOSERST2s1b0gwVWdtTFJndElhRERoVjBVTmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4ODkwNTM1CWZpbGU6S2FuZGlUZXJtaW5hbF8wLjU4LjM3X3g2NC1zZXR1cC5leGUKcnUwVEZ5WHl1R0JlaUxhNEVNY3pvdmoxcGZPT1kzNGxLZzhOQ2tDSzRrYnk4a216N2c5SHZqZXlqYkRtQ05MWStQaTlTNHQ2MHRnbmZGMThzOUw4Q0E9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/terminal-v0.58.37/KandiTerminal_0.58.37_x64-setup.exe"
     }
   }
 }
