@@ -1,19 +1,15 @@
 {
-  "version": "0.48.0",
-  "notes": "Spectacle GUI v0.48.0",
-  "pub_date": "2026-02-01T08:23:43.559Z",
+  "version": "0.48.11",
+  "notes": "Spectacle GUI v0.48.11",
+  "pub_date": "2026-02-07T01:41:07.083Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUF6ZGxKRnJaem9yT243Z3FJZzkwMUtHbEVvTHZLOXRCZGJVV1lBRk4rZEJTcVc2OVFJc1g5bTJLVU00bmtReWV2dGQvSUFqaktIRGRibDN3NUtVMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTMzNzk1CWZpbGU6U3BlY3RhY2xlLmFwcC50YXIuZ3oKTGFvTHNxa0xIdnU2L0ZvODdQRG9QdHFsMTJXbHBVTGZwYXV6Rmt2S1kvbnR2aXdTN3pDTUNBdVRYQUpWMFdubms3RkMwS21PZ3VwYml0SGpaNWx5Q3c9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v0.48.0/Spectacle.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUpLSEJ5ditpc1RBNUU3aEI2Q3MvL2htS1JRaUNzY1FNeS85ald2dkkyZFU1Sy9OM1dmVVB1MFdSYk0ydHBJVy9FOFVNQ2NDS0o3dDlJQnVkMW4wSWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDI4MjYzCWZpbGU6U3BlY3RhY2xlLmFwcC50YXIuZ3oKaEg5MlhlbnJJUU1MNktHa0RKLzl1TmtWTmNCU2Q5MUNUUlEvODJjUVgxWlBZZFVmR0YyZHU4NGI0dGxYZ1BuM0ZiUXFNcHJ0TGQwUWxOSDRYeXlHQkE9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v0.48.11/Spectacle.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUF6ZGxKRnJaem9yT243Z3FJZzkwMUtHbEVvTHZLOXRCZGJVV1lBRk4rZEJTcVc2OVFJc1g5bTJLVU00bmtReWV2dGQvSUFqaktIRGRibDN3NUtVMndNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTMzNzk1CWZpbGU6U3BlY3RhY2xlLmFwcC50YXIuZ3oKTGFvTHNxa0xIdnU2L0ZvODdQRG9QdHFsMTJXbHBVTGZwYXV6Rmt2S1kvbnR2aXdTN3pDTUNBdVRYQUpWMFdubms3RkMwS21PZ3VwYml0SGpaNWx5Q3c9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v0.48.0/Spectacle.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUZPQTU4RG9YYmR1Wm5GeWd4WGhDQnp2ZWRBY3pyeGM1WWVCSzdBQ1VJVVdIYnRXak9BcXVsQ1dJY1JUYnM3bGZMUU5hTThlV2NSYU9TWnNRRm1handnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5OTM0MDI4CWZpbGU6U3BlY3RhY2xlXzAuNDguMF94NjQtc2V0dXAuZXhlCnNkRVVESlpUaENaMVNCSWc5T0dGZGY1TjVDM21lemRuR0Zna0YwcUdkaG92SW91eWMvYWtwbTNWeitjQm9xb1ZWR0hLUUZNdWFDeUQxUE5iem1BSEF3PT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v0.48.0/Spectacle_0.48.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUpLSEJ5ditpc1RBNUU3aEI2Q3MvL2htS1JRaUNzY1FNeS85ald2dkkyZFU1Sy9OM1dmVVB1MFdSYk0ydHBJVy9FOFVNQ2NDS0o3dDlJQnVkMW4wSWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcwNDI4MjYzCWZpbGU6U3BlY3RhY2xlLmFwcC50YXIuZ3oKaEg5MlhlbnJJUU1MNktHa0RKLzl1TmtWTmNCU2Q5MUNUUlEvODJjUVgxWlBZZFVmR0YyZHU4NGI0dGxYZ1BuM0ZiUXFNcHJ0TGQwUWxOSDRYeXlHQkE9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v0.48.11/Spectacle.app.tar.gz"
     }
   }
 }
