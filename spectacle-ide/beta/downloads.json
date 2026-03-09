@@ -1,0 +1,14 @@
+{
+  "version": "1.13.4",
+  "pub_date": "2026-03-09T06:50:51.306Z",
+  "platforms": {
+    "macos": {
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.13.4/Spectacle_1.13.4_universal.dmg",
+      "filename": "Spectacle_1.13.4_universal.dmg"
+    },
+    "windows": {
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.13.4/Spectacle_1.13.4_x64-setup.exe",
+      "filename": "Spectacle_1.13.4_x64-setup.exe"
+    }
+  }
+}
