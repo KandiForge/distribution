@@ -1,10 +1,10 @@
 {
-  "version": "1.47.21",
-  "pub_date": "2026-04-07T05:40:54.908Z",
+  "version": "1.47.25",
+  "pub_date": "2026-04-07T07:07:41.386Z",
   "platforms": {
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.47.21/Spectacle_1.47.21_universal.dmg",
-      "filename": "Spectacle_1.47.21_universal.dmg"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.47.25/Spectacle_1.47.25_universal.dmg",
+      "filename": "Spectacle_1.47.25_universal.dmg"
     }
   }
 }
