@@ -1,14 +1,14 @@
 {
-  "version": "1.65.0",
-  "pub_date": "2026-05-25T23:09:55.656Z",
+  "version": "1.68.0",
+  "pub_date": "2026-05-27T14:55:42.890Z",
   "platforms": {
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.65.0/Spectacle_1.65.0_universal.dmg",
-      "filename": "Spectacle_1.65.0_universal.dmg"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.68.0/Spectacle_1.68.0_universal.dmg",
+      "filename": "Spectacle_1.68.0_universal.dmg"
     },
     "windows": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.65.0/Spectacle_1.65.0_x64-setup.exe",
-      "filename": "Spectacle_1.65.0_x64-setup.exe"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v1.68.0/Spectacle_1.68.0_x64-setup.exe",
+      "filename": "Spectacle_1.68.0_x64-setup.exe"
     }
   }
 }
