@@ -1,0 +1,10 @@
+{
+  "version": "2.2.4",
+  "pub_date": "2026-05-31T03:17:02.618Z",
+  "platforms": {
+    "macos": {
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v2.2.4/SpectacleServer_2.2.4_universal.dmg",
+      "filename": "SpectacleServer_2.2.4_universal.dmg"
+    }
+  }
+}
