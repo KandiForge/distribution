@@ -1,0 +1,19 @@
+{
+  "version": "0.1.3",
+  "notes": "Kandi Taffy v0.1.3",
+  "pub_date": "2026-06-14T06:50:59.271Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1XNGFWdUF0ZWRPMVh5aDRLV1ZMTWJqdzliUUhjVDM1OG9ZR2lVbU15c04wVEVjZXdNUDlHdHcwaW9nZGFkMmhTOVIzUExWVWRETU00ZVhnNWppYWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDE4MzkzCWZpbGU6S2FuZGlUYWZmeS5hcHAudGFyLmd6CmtRdmtIZVlLWUZVeEk0UzBYSEo2NklPbTcxWWZpZGRCSW9jMThMSFlmN1VIbWJPd0N3eUllOUxEQjBTWW8zTVVoUk5HT3JrSXJGSGZFZXdwbk9jUUR3PT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/taffy-v0.1.3/KandiTaffy.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1XNGFWdUF0ZWRPMVh5aDRLV1ZMTWJqdzliUUhjVDM1OG9ZR2lVbU15c04wVEVjZXdNUDlHdHcwaW9nZGFkMmhTOVIzUExWVWRETU00ZVhnNWppYWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDE4MzkzCWZpbGU6S2FuZGlUYWZmeS5hcHAudGFyLmd6CmtRdmtIZVlLWUZVeEk0UzBYSEo2NklPbTcxWWZpZGRCSW9jMThMSFlmN1VIbWJPd0N3eUllOUxEQjBTWW8zTVVoUk5HT3JrSXJGSGZFZXdwbk9jUUR3PT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/taffy-v0.1.3/KandiTaffy.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUZ3ZlhpUGczRjIzamFJV2toNmg2SUdEeXoxMkdxYWxQNDZUTVJwaS9TQTg2TTBiUXcwQWpMK3pOR2h0RmNKRVczQlhCcWI3emVyY0RDVzVVbWsvM2c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDE5Nzk2CWZpbGU6S2FuZGkgVGFmZnlfMC4xLjNfeDY0LXNldHVwLmV4ZQpPZ3hTVkNDaHpwREdSS095Y0lrL3g5N3pSQ2RncG42WWNkODJKK3RkWGgyNG5GVXBJNkxpVDFHdC9wVWhwK3d4QVRVbjdKTDRGbHk4VnUzMmcrY3lBQT09Cg==",
+      "url": "https://github.com/KandiForge/distribution/releases/download/taffy-v0.1.3/Kandi%20Taffy_0.1.3_x64-setup.exe"
+    }
+  }
+}
