@@ -1,0 +1,19 @@
+{
+  "version": "0.1.5",
+  "notes": "Kandi Factory v0.1.5",
+  "pub_date": "2026-06-14T08:50:33.486Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUhON2VWUVJnOFhEWjUwL1NWdHN6WDQweThsVC9uaGk0WHVUeTFGYjVxM29oaGJjU2kzUmdCZ1pyY2JiUG9MOVNwVEp1ZXNKMEptTGIzUHRLTDgvalFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI2MDgxCWZpbGU6S2FuZGlGYWN0b3J5LmFwcC50YXIuZ3oKdUlLc3QzNnJnSGNEOVBaMEZRRDNwNERhYW5VK0ZOaUhySmlyYU8vWGRDbVFXNFBab1p4a0xONUpSRHRHeWhIZ29xcS8wNU0rL1MxN3VwRlM4UVcvQUE9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.1.5/KandiFactory.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUhON2VWUVJnOFhEWjUwL1NWdHN6WDQweThsVC9uaGk0WHVUeTFGYjVxM29oaGJjU2kzUmdCZ1pyY2JiUG9MOVNwVEp1ZXNKMEptTGIzUHRLTDgvalFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI2MDgxCWZpbGU6S2FuZGlGYWN0b3J5LmFwcC50YXIuZ3oKdUlLc3QzNnJnSGNEOVBaMEZRRDNwNERhYW5VK0ZOaUhySmlyYU8vWGRDbVFXNFBab1p4a0xONUpSRHRHeWhIZ29xcS8wNU0rL1MxN3VwRlM4UVcvQUE9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.1.5/KandiFactory.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1DeFBVZEV6OUZRMXFaWWZhL2FwV0FMR1JpcE5FYUVBdW9abW9odFhEd0tQK1NaVHIvK3lHSVViK29KUFI2MENjbC9HSEM0QTNORWhxUzh6SzE5cHdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNDI2OTgwCWZpbGU6S2FuZGkgRmFjdG9yeV8wLjEuNV94NjQtc2V0dXAuZXhlCnpaSHJqQVM2WWZ4VGZEOHZ3SkNrN1hsbUxLbUVxTk1HZm9jK2tvTVZSWFNWaUIreVk4NU9uSWtjeXBjcHI1Z1B3RzA2TDR2S0NoYWdXdTIyNUwxK0JBPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.1.5/Kandi%20Factory_0.1.5_x64-setup.exe"
+    }
+  }
+}
