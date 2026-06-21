@@ -19,5 +19,9 @@ if [ -n "${KV_QUANT:-}" ]; then
   ARGS+=(--cache-type-k "$KV_QUANT" --cache-type-v "$KV_QUANT")
 fi
 
-echo "[forge-inference] serving baked model (ngl=${NGL:-99} ctx=${CTX_SIZE:-8192} parallel=${PARALLEL:-1} kv=${KV_QUANT:-fp16})"
-exec llama-server "${ARGS[@]}"
+# The base image puts the binary at /app/llama-server and does NOT add /app to PATH.
+LLAMA_BIN="$(command -v llama-server || true)"
+[ -n "$LLAMA_BIN" ] || LLAMA_BIN=/app/llama-server
+
+echo "[forge-inference] serving baked model (ngl=${NGL:-99} ctx=${CTX_SIZE:-8192} parallel=${PARALLEL:-1} kv=${KV_QUANT:-fp16}) via $LLAMA_BIN"
+exec "$LLAMA_BIN" "${ARGS[@]}"
