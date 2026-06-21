@@ -24,4 +24,15 @@ LLAMA_BIN="$(command -v llama-server || true)"
 [ -n "$LLAMA_BIN" ] || LLAMA_BIN=/app/llama-server
 
 echo "[forge-inference] serving baked model (ngl=${NGL:-99} ctx=${CTX_SIZE:-8192} parallel=${PARALLEL:-1} kv=${KV_QUANT:-fp16}) via $LLAMA_BIN"
-exec "$LLAMA_BIN" "${ARGS[@]}"
+echo "[forge-inference] $($LLAMA_BIN --version 2>&1 | head -1 || echo 'version probe failed')"
+
+# DEBUG_HOLD (set via env only when debugging): if llama-server exits, keep the
+# container alive so its logs can be retrieved. Prod leaves it unset → plain exec.
+if [ -n "${DEBUG_HOLD:-}" ]; then
+  set +e
+  "$LLAMA_BIN" "${ARGS[@]}"
+  echo "[forge-inference] llama-server exited code=$? — holding 30m for inspection"
+  sleep 1800
+else
+  exec "$LLAMA_BIN" "${ARGS[@]}"
+fi
