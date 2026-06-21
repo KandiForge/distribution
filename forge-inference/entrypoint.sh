@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 # forge-inference entrypoint: fetch a GGUF, verify it, serve it OpenAI-style.
 #
-# Env (passed by the on/off helper when it rents the instance):
+# Env (passed by the on/off helper when it rents the instance). NOTE: Vast's env
+# field splits on spaces, so every value here MUST be a single token (no spaces).
 #   INSTANCE_SECRET   required. Bearer token llama.cpp requires on every request.
-#   LLAMA_ARGS        optional. Extra llama-server flags (ctx size, ngl, …).
+#   NGL               optional. GPU layers to offload (default 99 = all; it's a GPU box).
+#   CTX_SIZE          optional. Context window (default 8192).
 #
 #   Weight source — ONE of:
 #   (a) HuggingFace (public, used for placeholder base models):
@@ -34,10 +36,10 @@ if [[ -n "${MODEL_SHA256:-}" ]]; then
   echo "${MODEL_SHA256}  ${MODEL_PATH}" | sha256sum -c -
 fi
 
-echo "[forge-inference] starting llama-server"
-# shellcheck disable=SC2086  # LLAMA_ARGS is intentionally word-split.
+echo "[forge-inference] starting llama-server (ngl=${NGL:-99} ctx=${CTX_SIZE:-8192})"
 exec llama-server \
   --host 0.0.0.0 --port 8080 \
   --api-key "$INSTANCE_SECRET" \
   -m "$MODEL_PATH" \
-  ${LLAMA_ARGS:-}
+  --n-gpu-layers "${NGL:-99}" \
+  --ctx-size "${CTX_SIZE:-8192}"
