@@ -19,7 +19,11 @@ if [ -n "${KV_QUANT:-}" ]; then
   ARGS+=(--cache-type-k "$KV_QUANT" --cache-type-v "$KV_QUANT")
 fi
 
-# The base image puts the binary at /app/llama-server and does NOT add /app to PATH.
+# The base image puts the binary + its libs (libllama-server-impl.so) in /app, but
+# only sets LD_LIBRARY_PATH=/usr/local/cuda/lib64. Add /app and run from there so
+# the dynamic linker resolves the server's own shared objects.
+export LD_LIBRARY_PATH="/app:${LD_LIBRARY_PATH:-}"
+cd /app
 LLAMA_BIN="$(command -v llama-server || true)"
 [ -n "$LLAMA_BIN" ] || LLAMA_BIN=/app/llama-server
 
