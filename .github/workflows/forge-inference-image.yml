@@ -1,8 +1,8 @@
-name: forge-inference image
+name: forge-inference images
 
-# Builds the on-demand inference container and publishes it PUBLICLY to GHCR from
-# this public repo, so a rented Vast.ai GPU can pull it anonymously. Consumed by
-# KandiForge/servers (api/lib/vast/*).
+# Builds one self-contained image PER MODEL (weights baked in) and publishes them
+# to GHCR: ghcr.io/kandiforge/forge-jawbreaker, ghcr.io/kandiforge/forge-poprock.
+# A rented Vast GPU pulls the image and serves — no runtime HuggingFace download.
 
 on:
   push:
@@ -17,9 +17,25 @@ permissions:
   packages: write
 
 jobs:
-  build-and-push:
+  build:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: jawbreaker        # 7B — throughput tier (default)
+            hf_repo: Qwen/Qwen2.5-Coder-7B-Instruct-GGUF
+            hf_file: qwen2.5-coder-7b-instruct-q4_k_m.gguf
+          - name: poprock           # 32B — quality tier
+            hf_repo: Qwen/Qwen2.5-Coder-32B-Instruct-GGUF
+            hf_file: qwen2.5-coder-32b-instruct-q4_k_m.gguf
     steps:
+      - name: Free runner disk (baked models are large)
+        run: |
+          sudo rm -rf /usr/share/dotnet /opt/ghc /usr/local/lib/android \
+            /opt/hostedtoolcache /usr/local/share/boost "$AGENT_TOOLSDIRECTORY" || true
+          df -h /
+
       - name: Checkout
         uses: actions/checkout@v4
 
@@ -30,11 +46,12 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Build and push
+      - name: Build and push (${{ matrix.name }})
         uses: docker/build-push-action@v6
         with:
           context: forge-inference
           push: true
-          tags: |
-            ghcr.io/kandiforge/forge-inference:latest
-            ghcr.io/kandiforge/forge-inference:${{ github.sha }}
+          build-args: |
+            MODEL_HF_REPO=${{ matrix.hf_repo }}
+            MODEL_HF_FILE=${{ matrix.hf_file }}
+          tags: ghcr.io/kandiforge/forge-${{ matrix.name }}:latest

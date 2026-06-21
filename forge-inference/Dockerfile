@@ -1,26 +1,32 @@
-# forge-inference — generic on-demand inference container.
+# forge-inference — self-contained inference image with the model BAKED IN.
 #
-# One image serves ANY KandiForge model: the weights are NOT baked in, they are
-# fetched at boot from the source the on/off helper passes via env. A rented Vast
-# GPU runs this. Consumed by KandiForge/servers (api/lib/vast/*).
+# Built once per model in CI: the GGUF is downloaded at BUILD time and baked into
+# the image, so a rented Vast GPU has zero runtime dependency on HuggingFace — it
+# just pulls this image and serves. Published per model as
+# ghcr.io/kandiforge/forge-<name>. Consumed by KandiForge/servers (api/lib/vast/*).
 #
-# Published publicly to ghcr.io/kandiforge/forge-inference from THIS public repo so
-# Vast can pull it anonymously. The source label below links the GHCR package to
-# this public repo (which is what makes the package public).
+# Build args select which GGUF gets baked in:
+#   MODEL_HF_REPO / MODEL_HF_FILE   (build-time download source)
 
 FROM ghcr.io/ggml-org/llama.cpp:server-cuda
 LABEL org.opencontainers.image.source=https://github.com/KandiForge/distribution
 
-# curl for HuggingFace/bucket downloads; ca-certs for TLS.
+ARG MODEL_HF_REPO
+ARG MODEL_HF_FILE
+
 RUN apt-get update \
     && apt-get install -y --no-install-recommends curl ca-certificates \
     && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /models
+# Bake the weights in at build time (one-time, in CI) — never downloaded at boot.
+RUN test -n "$MODEL_HF_REPO" && test -n "$MODEL_HF_FILE" \
+    && curl -fSL --retry 5 --retry-delay 10 -o model.gguf \
+       "https://huggingface.co/${MODEL_HF_REPO}/resolve/main/${MODEL_HF_FILE}" \
+    && ls -lh model.gguf
+
 COPY entrypoint.sh /usr/local/bin/entrypoint.sh
 RUN chmod +x /usr/local/bin/entrypoint.sh
 
-# llama.cpp server listens here; Vast maps this port to a public one.
 EXPOSE 8080
-
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
