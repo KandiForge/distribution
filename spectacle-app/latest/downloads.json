@@ -1,14 +1,14 @@
 {
-  "version": "6.10.0",
-  "pub_date": "2026-07-19T03:17:20.043Z",
+  "version": "6.11.0",
+  "pub_date": "2026-07-19T20:34:04.785Z",
   "platforms": {
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v6.10.0-latest/SpectacleServer_6.10.0_universal.dmg",
-      "filename": "SpectacleServer_6.10.0_universal.dmg"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v6.11.0-latest/SpectacleServer_6.11.0_universal.dmg",
+      "filename": "SpectacleServer_6.11.0_universal.dmg"
     },
     "windows": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v6.10.0-latest/SpectacleServer_6.10.0_x64-setup.exe",
-      "filename": "SpectacleServer_6.10.0_x64-setup.exe"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v6.11.0-latest/SpectacleServer_6.11.0_x64-setup.exe",
+      "filename": "SpectacleServer_6.11.0_x64-setup.exe"
     }
   }
 }
