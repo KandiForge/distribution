@@ -1,19 +1,19 @@
 {
-  "version": "0.3.5",
-  "notes": "Kandi Factory v0.3.5",
-  "pub_date": "2026-08-19T21:06:11.935Z",
+  "version": "0.3.7",
+  "notes": "Kandi Factory v0.3.7",
+  "pub_date": "2026-08-19T22:55:19.264Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUMxMUVhS1drSFFIa25jWm45TkYzWmhqWlRGdTJTeG85b2gzRFVUNExSNWVVUXpkRFN5dzZSMEcwNHFMSEZ6R1JEMGc3bFRVNVpCdVJ6VXJlYm1LY3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTczMDQ5CWZpbGU6S2FuZGlGYWN0b3J5LmFwcC50YXIuZ3oKMzF5N3h4bUtmU0V5bDZpeDRBQWZraG16bTg3d2RVZlBKZGxuQVgwUmtaQmF1YmxLSzQwZ0pSUzNYY3cxQ2cwK1pEMUNMOTE5blBGOFZQZDdQQyswQlE9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.3.5-canary/KandiFactory.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUhMMzZwbUp2c21hSTBmd29QNDJEZ1BrVk00aDNHcmxtOEFFb2RyNmhRYWNYSHhxSW44YzhkdzVKN2ZYS3psV2N6Q01SMWlRSE00L0d3MU90MVk2QXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTc5NjI0CWZpbGU6S2FuZGlGYWN0b3J5LmFwcC50YXIuZ3oKOWZKd1dOdTNxTC81aHJBcHhRSHd0V21UQTBWRVFmOEo2MmNCQWZOaUdCR0dYWkNNdFRsbzkrTi9HWmM3SlUxbHlEV2lJSlhVckdFRkg1SFk5bXZTQWc9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.3.7-canary/KandiFactory.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUMxMUVhS1drSFFIa25jWm45TkYzWmhqWlRGdTJTeG85b2gzRFVUNExSNWVVUXpkRFN5dzZSMEcwNHFMSEZ6R1JEMGc3bFRVNVpCdVJ6VXJlYm1LY3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTczMDQ5CWZpbGU6S2FuZGlGYWN0b3J5LmFwcC50YXIuZ3oKMzF5N3h4bUtmU0V5bDZpeDRBQWZraG16bTg3d2RVZlBKZGxuQVgwUmtaQmF1YmxLSzQwZ0pSUzNYY3cxQ2cwK1pEMUNMOTE5blBGOFZQZDdQQyswQlE9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.3.5-canary/KandiFactory.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUhMMzZwbUp2c21hSTBmd29QNDJEZ1BrVk00aDNHcmxtOEFFb2RyNmhRYWNYSHhxSW44YzhkdzVKN2ZYS3psV2N6Q01SMWlRSE00L0d3MU90MVk2QXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTc5NjI0CWZpbGU6S2FuZGlGYWN0b3J5LmFwcC50YXIuZ3oKOWZKd1dOdTNxTC81aHJBcHhRSHd0V21UQTBWRVFmOEo2MmNCQWZOaUdCR0dYWkNNdFRsbzkrTi9HWmM3SlUxbHlEV2lJSlhVckdFRkg1SFk5bXZTQWc9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.3.7-canary/KandiFactory.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUlPL0o5dThJWVJISVdabitiamtXZHRKb0tRaFZWZTZZWHNsZWEwb2VnK2VIV1BWbWhJaFZUU0daUUROb0RmYUpmZWpacktSYXdBbjVqelVOcGVGWEFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTczMjY1CWZpbGU6S2FuZGkgRmFjdG9yeV8wLjMuNF94NjQtc2V0dXAuZXhlCkdDeGRCZXhqOHByM2c0TFZmQTI2VEdMeVhJTzZ3cUNTT0lRSU1PbnBSWFZxdEtUdE1QUFVCTERDR25tZVNEWVlOSmVCTkl3dzZHbnlJNnlmUmNVVUFBPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.3.5-canary/Kandi%20Factory_0.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUswSldzSnN2T0k4ckJjNm9UR2FFNm1oeW1NYklZYzM0QjdDSWZtTGNSOGtBSlptc29NWHFzcndNVjg0cjRqZFlISlJyN2RwdWJoeVR3SUIwTVdPdFFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MTc5ODU3CWZpbGU6S2FuZGkgRmFjdG9yeV8wLjMuNl94NjQtc2V0dXAuZXhlCm91QjhHaC9BU2dncXNLYy9XdE1WSnFBeElFVGZCWW1JY011bU02Y0hxZmVNOUdHUUdiOHJqSDBQb1JWWEUwdkRpaHMycnlnenhwYUN4eUpOMytBSEFBPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/factory-v0.3.7-canary/Kandi%20Factory_0.3.6_x64-setup.exe"
     }
   }
 }
