@@ -1,10 +1,10 @@
 {
-  "version": "4.6.3",
-  "pub_date": "2026-08-22T02:49:54.948Z",
+  "version": "4.6.4",
+  "pub_date": "2026-08-22T21:23:14.953Z",
   "platforms": {
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.3-canary/KandiForgeIDE_4.6.3_universal.dmg",
-      "filename": "KandiForgeIDE_4.6.3_universal.dmg"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.4-canary/KandiForgeIDE_4.6.4_universal.dmg",
+      "filename": "KandiForgeIDE_4.6.4_universal.dmg"
     }
   }
 }
