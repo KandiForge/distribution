@@ -1,10 +1,10 @@
 {
-  "version": "7.6.6",
-  "pub_date": "2026-08-24T01:52:24.533Z",
+  "version": "7.6.7",
+  "pub_date": "2026-08-24T07:44:53.853Z",
   "platforms": {
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.6.6-canary/SpectacleServer_7.6.6_universal.dmg",
-      "filename": "SpectacleServer_7.6.6_universal.dmg"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.6.7-canary/SpectacleServer_7.6.7_universal.dmg",
+      "filename": "SpectacleServer_7.6.7_universal.dmg"
     }
   }
 }
