@@ -1,15 +1,15 @@
 {
-  "version": "4.6.6",
-  "notes": "KandiForge IDE v4.6.6",
-  "pub_date": "2026-08-24T07:45:51.474Z",
+  "version": "4.6.7",
+  "notes": "KandiForge IDE v4.6.7",
+  "pub_date": "2026-08-25T00:54:31.550Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUVGdlZVL1FiVVY2c0VMeFJjWkdFTnpaZXJldUdTMlVqcFZ6OG4vanlFZ1E3dk9NN01hN2VUYlNVRHZqZzBBeVF6N0tWZUtrRG9qWnJJVlFXNGRIMmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTU3MTkwCWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6Cml1OVU3bUpDOWtKTXJEazIramtjRDkxYU1teW1ob1A0VG8rUWEvUFJmTjVNNzdNSmRlaGkyYlVaaUcyQUcvTXdSQmNhY1hhQk9wODA3bkxPcHFKNUF3PT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.6-canary/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUJabms2MjhiRFhPQkk2VVJLZVE3MCtOclF0RzJkYUVoaHdtU0VWc2NPYllSSFNMQmhVVVUvNTIyUXVRclpUV3gySjMwbUlxeVZlcjc0ZmQ1RW1jRUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjE4OTQxCWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6ClRldm93RURUQzBvbHpKZVRUamc2Y3pVZXA2QUpGL1JJQUtrem1FcjVLK3grOGlEeVNvdk85MkpBK05oTTV2ZGJRNldua3dHcldQRDNtWWovWGhiUENnPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.7-canary/KandiForgeIDE.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUVGdlZVL1FiVVY2c0VMeFJjWkdFTnpaZXJldUdTMlVqcFZ6OG4vanlFZ1E3dk9NN01hN2VUYlNVRHZqZzBBeVF6N0tWZUtrRG9qWnJJVlFXNGRIMmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NTU3MTkwCWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6Cml1OVU3bUpDOWtKTXJEazIramtjRDkxYU1teW1ob1A0VG8rUWEvUFJmTjVNNzdNSmRlaGkyYlVaaUcyQUcvTXdSQmNhY1hhQk9wODA3bkxPcHFKNUF3PT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.6-canary/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUJabms2MjhiRFhPQkk2VVJLZVE3MCtOclF0RzJkYUVoaHdtU0VWc2NPYllSSFNMQmhVVVUvNTIyUXVRclpUV3gySjMwbUlxeVZlcjc0ZmQ1RW1jRUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NjE4OTQxCWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6ClRldm93RURUQzBvbHpKZVRUamc2Y3pVZXA2QUpGL1JJQUtrem1FcjVLK3grOGlEeVNvdk85MkpBK05oTTV2ZGJRNldua3dHcldQRDNtWWovWGhiUENnPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.7-canary/KandiForgeIDE.app.tar.gz"
     }
   }
 }
