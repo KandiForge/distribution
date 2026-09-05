@@ -1,19 +1,19 @@
 {
-  "version": "4.7.1",
-  "notes": "KandiForge IDE v4.7.1",
-  "pub_date": "2026-09-05T18:04:32.512Z",
+  "version": "4.7.2",
+  "notes": "KandiForge IDE v4.7.2",
+  "pub_date": "2026-09-05T21:32:25.675Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU5ZT2hQZ0RVQ3FXT3VkTmpHNXhkWG9kVk9oelVQQWhnNXdza3dBQ0JQZmVkaEVueEVFc2JneVlKcW9GTldXMUN1Y2NWbWZQbjVQS0pvdUpKR1VnS1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjMwODgyCWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6Cjl4NzhHc1NGeGlqUVYzbko3akpmYUVPaGpORm4xOERKMUtOdWtSNXJtVHYyMXdBazFNak9wRmxJSXRXMGFCaWZJQno2Yk82Q3ZFOW5SbnJERFNjNEFRPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.1-canary/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUNXODNaeTQrOTZONlVnWXdNY0c2bkJmWWp4blY5a3ZUbitMcWlCSVVpK2NLQlM1TWUxRWpJKzVHNklBUW9RdGRwdm53WmNZbUVUUjBSK1E2UURpeHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQzNjA4CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6CjBaOU8ybXRxVldvNXZZQTB3dUpHQThPb3NmVjQyRFJuWHI2WjdZbmJGb2RycjJDczU1SXkxbWxRTWpoRXcyaWJ2RzZCU1hrbWlnZUQzSFFRVEJERkR3PT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.2-canary/KandiForgeIDE.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU5ZT2hQZ0RVQ3FXT3VkTmpHNXhkWG9kVk9oelVQQWhnNXdza3dBQ0JQZmVkaEVueEVFc2JneVlKcW9GTldXMUN1Y2NWbWZQbjVQS0pvdUpKR1VnS1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjMwODgyCWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6Cjl4NzhHc1NGeGlqUVYzbko3akpmYUVPaGpORm4xOERKMUtOdWtSNXJtVHYyMXdBazFNak9wRmxJSXRXMGFCaWZJQno2Yk82Q3ZFOW5SbnJERFNjNEFRPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.1-canary/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUNXODNaeTQrOTZONlVnWXdNY0c2bkJmWWp4blY5a3ZUbitMcWlCSVVpK2NLQlM1TWUxRWpJKzVHNklBUW9RdGRwdm53WmNZbUVUUjBSK1E2UURpeHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQzNjA4CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6CjBaOU8ybXRxVldvNXZZQTB3dUpHQThPb3NmVjQyRFJuWHI2WjdZbmJGb2RycjJDczU1SXkxbWxRTWpoRXcyaWJ2RzZCU1hrbWlnZUQzSFFRVEJERkR3PT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.2-canary/KandiForgeIDE.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU5vZVRJTG9ZWFRUVEZORVprbDg3bFNGZWNpWERidzBLOWFHZW9UVUROaEl2OHZwQmJGNW1CS2tDSU83Vm81TUdoTjFVN0JBM2lQYklCN0czaEdZa1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjMwNzgyCWZpbGU6S2FuZGlGb3JnZUlERV80LjcuMV94NjQtc2V0dXAuZXhlCjlQRUxUcnBhR1RYRldMWlNhM3FSVFJSamVtYlYxaUVRaTJYNzdZU0duK0Y4S21wd25MMTR1Q2JUdktYMjRWcEFwVkZMaFhwQ04zeDJhWVZhUDRKWkJBPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.1-canary/KandiForgeIDE_4.7.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUFYUWhQRC9YeS95andrMjh5Mm50SmtrTG1rTlhFdjB3WE1mK3ZyYitOOTV2cklkaTVIMld2RTlmSTM3QlJyTkkyaFV4ZHVkb0FCMHBURUM0cU9hYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQxMDY2CWZpbGU6S2FuZGlGb3JnZUlERV80LjcuMl94NjQtc2V0dXAuZXhlCjJGbFBYTkp6U1Qxc2REK0o0bUFpZEQ1cFdBRWhpc09CaThid0o0cnJrSEU1c2NZRkNtWkpVWE5LOW5pUlV6Mk5yaWEzRlFzdUpBUUZzRldtMXNGQ0F3PT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.2-canary/KandiForgeIDE_4.7.2_x64-setup.exe"
     }
   }
 }
