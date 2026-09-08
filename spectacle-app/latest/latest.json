@@ -1,19 +1,19 @@
 {
-  "version": "7.7.4",
-  "notes": "Spectacle Server v7.7.4",
-  "pub_date": "2026-09-05T20:11:51.224Z",
+  "version": "7.7.6",
+  "notes": "Spectacle Server v7.7.6",
+  "pub_date": "2026-09-08T02:52:31.688Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUs1bnY3SWtkZjhoSXZFTy9Hc1lJT0haVndveFlFTTN1ZFk4K2daZmFvd0huNHhDQnBzaUNWUDk4bWRMaXhyZXNsWkpKRkthS3dYYXBRdzZOZjFlK2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjM4OTM3CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKUWxkME5wdkZvVzM5ZERyMkhwQXVGMjBOZGZvcXZlYllDUVNNR2twNWxrNFFHRnRYVVpGYndHOGoyQ0pCeklPZzRUOUdaM2tteXJVT0Nyb1NKVjI5QXc9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.7.4-canary/SpectacleServer.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUdudEgwR1BHcTVrR3dzeWZuZ21say9CMzlMQ0pDUVViODFpRUl3SnU3RVlMdk1wVDFGRi9OeExLR2tLc1lFaWRTNUd6cUlaVXoyWUY2b3c1ME1YUFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODM1MDU0CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKcFA3TDBEY2VkTURVRzJ3MFNBSktpbGd3UU9DM3VoNksrTjBkYVU4bjhTSFh6ZmpBT2ZDVXRRTzhLZERHZGw3MlZjd3Y1WGdacnlESFJZaDJiVVZWQXc9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.7.6-canary/SpectacleServer.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUs1bnY3SWtkZjhoSXZFTy9Hc1lJT0haVndveFlFTTN1ZFk4K2daZmFvd0huNHhDQnBzaUNWUDk4bWRMaXhyZXNsWkpKRkthS3dYYXBRdzZOZjFlK2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjM4OTM3CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKUWxkME5wdkZvVzM5ZERyMkhwQXVGMjBOZGZvcXZlYllDUVNNR2twNWxrNFFHRnRYVVpGYndHOGoyQ0pCeklPZzRUOUdaM2tteXJVT0Nyb1NKVjI5QXc9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.7.4-canary/SpectacleServer.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUdudEgwR1BHcTVrR3dzeWZuZ21say9CMzlMQ0pDUVViODFpRUl3SnU3RVlMdk1wVDFGRi9OeExLR2tLc1lFaWRTNUd6cUlaVXoyWUY2b3c1ME1YUFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODM1MDU0CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKcFA3TDBEY2VkTURVRzJ3MFNBSktpbGd3UU9DM3VoNksrTjBkYVU4bjhTSFh6ZmpBT2ZDVXRRTzhLZERHZGw3MlZjd3Y1WGdacnlESFJZaDJiVVZWQXc9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.7.6-canary/SpectacleServer.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUNIUGVSWWJ5M0JjQzdLOUlBMWRNVzdjSE5vSnI0NWI0cThVOEFHZU10YkZEZmw4VmNNOHRUTStPUlJjYjVzejdtNFVCaHk4U3JEZlFYNTYzK3V2b3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjM4Njk1CWZpbGU6U3BlY3RhY2xlU2VydmVyXzcuNy40X3g2NC1zZXR1cC5leGUKbE1KSFZHZVR5UTV6cFVwWXFmWlYwSm5pZkZxaEJnSnZmZVNUejB5MDgxSFRVaFk5b2VQdWFDT0d3WmpKNjFSMDgydk4zMTluSDZmS0hSaC9DcktuRFE9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.7.4-canary/SpectacleServer_7.7.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUJMWUhOTXM4UmJzSEVWQ2V3TEp5K0RHVk1RbDJ1Y1RTSGV4YjRlRTdIMUh4b2p3L1RZd3U1SVFDcENnVjNVeU9pUVlqRXRFOFNhMDArUnZMQUJjY3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODM0OTQ0CWZpbGU6U3BlY3RhY2xlU2VydmVyXzcuNy42X3g2NC1zZXR1cC5leGUKV3V1SEFQVXJyYSs3TnZET29YMWRadkMyZE9ablJONGRHZ3N1SFZrblBIRVNzOEMrSUcyQkJIeVVGZ3dHZS9KMVRuZDZTZkh1RDZXb2NUYTU5UnY3RHc9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.7.6-canary/SpectacleServer_7.7.6_x64-setup.exe"
     }
   }
 }
