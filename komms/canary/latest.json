@@ -1,19 +1,19 @@
 {
-  "version": "0.1.4",
-  "notes": "Komms 0.1.4 (canary)",
-  "pub_date": "2026-09-28T20:37:17.055525+00:00",
+  "version": "0.1.5",
+  "notes": "Komms 0.1.5 (canary)",
+  "pub_date": "2026-09-28T21:33:39.112377+00:00",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUVMTzRuQURNWjgxTkhuRE5GUFhJQ1loV2hJZEJJVVEwdGJMOFVYWUpZZUpkaTZBckZZclNtZHh1eUltSk9SZk9KVkd0Qk16SGNvcGRYZVNPckVuSWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjI3NDMxCWZpbGU6S29tbXMuYXBwLnRhci5negpNZWMrSHdoNGUyUFNzcE96TFZLZTJXaFFKTXdNdExiWXc2SzRDWnljV2VmK2NlcTFwRThaOHNyek9NZ2xhUnoxYTFCRHlCNVRLQjdLVWQ5VEpueEJEdz09Cg==",
-      "url": "https://github.com/KandiForge/distribution/releases/download/komms-v0.1.4/Komms_0.1.4_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUg4ZVhTSHlkVWdUMDZtWjVHRFd2T0F6TUFrUGlqTTVBTEZuNnZQZ1lwbG8xNFZacG9ZUEFSRWpYVjIwaThHSnFOM0V4djNRMUh6RVdlRlRrNnFueUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjMwMzYxCWZpbGU6S29tbXMuYXBwLnRhci5negozTGxJMEtMSHdrSkdQblVscXBvYWFDdFNFVUZPMCt0Y29mS3dFMGo1WkxOdVAzQVd2K1JMV1BuMG0xQ2JxL2lHTFJjTHcwYW5MREwwVlY1TkZTYXRBQT09Cg==",
+      "url": "https://github.com/KandiForge/distribution/releases/download/komms-v0.1.5/Komms_0.1.5_aarch64.app.tar.gz"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUd4R1NtR3pxTVllTGdTcDZrRDVJN1prbTlZY01qVWNOQlNUa1k1RHQzUkxVc3k1alYxMFYyQ1NMd3VmRFdMeHUwcFBzc0R3cklsUWtrTUVyK0VJVWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjI2NjU1CWZpbGU6S29tbXMuYXBwLnRhci5negpLd3AvTTVacDJYWE13bmMzejczZjBQbkdTMkJsVHdRaVFvMlFIZXRkbHdHZmhaKzBLU255cnpPOWQzZXEzV20rWW0wUldLN0p4aXRGV2puMldreGlCdz09Cg==",
-      "url": "https://github.com/KandiForge/distribution/releases/download/komms-v0.1.4/Komms_0.1.4_x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU5selF2MjZyVFBqU3dxbEdIV2xuUTdyWHZVTW0vSGZLa2JZSkhTSnhBTVlmeVc4cmlCQlJEQUF4WmpYc3ZCcHZJdS9qaGNWZXBZOXpHeDdIcTJjV3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjMwMDMxCWZpbGU6S29tbXMuYXBwLnRhci5negovaGJYMjkyYWQzMTZkVFU3T3ZGQnJWSmJabkVlb0NGaGMycVBRWTRScUJlOUo5VFk2SHBKVm5tZmlqSFNnVitSbmwyN2swWWgzejVEUFIrblVTbGdEZz09Cg==",
+      "url": "https://github.com/KandiForge/distribution/releases/download/komms-v0.1.5/Komms_0.1.5_x86_64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUpkZG82dUlWY0dSdXZ2YldHWlMzNGhoaVNUdXNKNTVBZzcwWnlkbElKMUVFWjB0Q2djS2xuRnVpQVkvbmxhSmRKU3c1UFVZcjZadDBUVWs1TEhsNXdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjI3Mzg4CWZpbGU6S29tbXNfMC4xLjRfeDY0LXNldHVwLmV4ZQpCOGs1T1lBOHZRelY4eGE5UE5pSlZLQlNRV2xyWThSaVg2ekNOZzZDeXBqM1VxSlRJeXk5dS9TUXZzZ3NDVERKZTRmME5pTWJmL0R5STRSSEt3bmFBQT09Cg==",
-      "url": "https://github.com/KandiForge/distribution/releases/download/komms-v0.1.4/Komms_0.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU5ZZnhWMWNoK00zZ1R2akV0TU40WXBIaUZBUlVzdE14aWFHN25pSTV6cUJycFVsV1VkZm1Fd0ZpZ1hsQVRMbG13RlE5bFp6OEp1S1djdk5yZFJFU0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjMxMTg3CWZpbGU6S29tbXNfMC4xLjVfeDY0LXNldHVwLmV4ZQpVM3dGcTN4RjYvOFBONTFTVHVQNHpCbUtNOEVydHI0Y1RMSndmc1pmdWQvVEFxcjhzam93S0k5QitTNUVnYXlFMjRiS2xQWUtNZks5QnByTWxGSmJDUT09Cg==",
+      "url": "https://github.com/KandiForge/distribution/releases/download/komms-v0.1.5/Komms_0.1.5_x64-setup.exe"
     }
   }
 }
