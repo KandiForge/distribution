@@ -1,10 +1,10 @@
 {
-  "version": "4.7.30",
-  "pub_date": "2026-10-04T06:14:21.853Z",
+  "version": "4.7.31",
+  "pub_date": "2026-10-05T02:57:48.748Z",
   "platforms": {
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.30-canary/KandiForgeIDE_4.7.30_universal.dmg",
-      "filename": "KandiForgeIDE_4.7.30_universal.dmg"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.7.31-canary/KandiForgeIDE_4.7.31_universal.dmg",
+      "filename": "KandiForgeIDE_4.7.31_universal.dmg"
     }
   }
 }
