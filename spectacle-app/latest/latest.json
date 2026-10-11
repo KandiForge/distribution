@@ -1,15 +1,11 @@
 {
-  "version": "7.9.3",
-  "notes": "Spectacle Server v7.9.3",
-  "pub_date": "2026-10-10T20:12:56.647Z",
+  "version": "7.9.4",
+  "notes": "Spectacle Server v7.9.4",
+  "pub_date": "2026-10-11T16:16:55.503Z",
   "platforms": {
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1FTUVXcXpDR1g4Rjc0cFAwRGZHKzlmWDNURDJ6aXFiVGJPdWtRaG9taEo3N0EyeHVhaHIyTDBYYi9pbVJVUFcxQ0tkMFBkaFlYM0l0czRaREFFK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjYzMDA2CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKbkIwM2pxWGlPZi9SblhBN0RpZU9aODRzZ3NpMndyTG1YaVVmdzlrcnJzVjVwRkZZSzNEY29zWUVZdFpVOUdnYmUxdWFPaGJieUc2a0pqNG5Edjl5REE9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.3-canary/SpectacleServer.app.tar.gz"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1FTUVXcXpDR1g4Rjc0cFAwRGZHKzlmWDNURDJ6aXFiVGJPdWtRaG9taEo3N0EyeHVhaHIyTDBYYi9pbVJVUFcxQ0tkMFBkaFlYM0l0czRaREFFK3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjYzMDA2CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKbkIwM2pxWGlPZi9SblhBN0RpZU9aODRzZ3NpMndyTG1YaVVmdzlrcnJzVjVwRkZZSzNEY29zWUVZdFpVOUdnYmUxdWFPaGJieUc2a0pqNG5Edjl5REE9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.3-canary/SpectacleServer.app.tar.gz"
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUZOUGFSeHpnOHFOR1dablUvNDFQZGVTOGhPeUF3UzAvd3F6a0pobzZzUjQvazdkOVRvelpRWVZrcVg4TWF0Yk0zL3BwYmRKZUJialcrZ015Smkyd3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzM0MzM4CWZpbGU6U3BlY3RhY2xlU2VydmVyXzcuOS40X2FtZDY0LkFwcEltYWdlCXZlcnNpb246Ny45LjQKcTlDU00xN3BoeWMvTjJJbkVEWXpKdm5yUzdGRkZ5dmFoQVZzQUV4eXJ1cGdRTEY3Ujk0M1dEYzF6MEhXTGQ2VmxPcWF2Rkg1bis2ZHppOFhEOW53Q0E9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.4-canary/SpectacleServer_7.9.4_amd64.AppImage"
     }
   }
 }
