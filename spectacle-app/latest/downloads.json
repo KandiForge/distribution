@@ -1,6 +1,6 @@
 {
-  "version": "7.9.12",
-  "pub_date": "2026-10-18T02:07:43.189Z",
+  "version": "7.9.13",
+  "pub_date": "2026-10-20T07:32:03.606Z",
   "platforms": {
     "linux": {
       "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.9-canary/SpectacleServer_7.9.9_amd64.AppImage",
@@ -9,16 +9,16 @@
       "pub_date": "2026-10-13T19:32:45.230Z"
     },
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.12-canary/SpectacleServer_7.9.12_universal.dmg",
-      "filename": "SpectacleServer_7.9.12_universal.dmg",
-      "version": "7.9.12",
-      "pub_date": "2026-10-18T02:07:43.189Z"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.13-canary/SpectacleServer_7.9.13_universal.dmg",
+      "filename": "SpectacleServer_7.9.13_universal.dmg",
+      "version": "7.9.13",
+      "pub_date": "2026-10-20T07:32:03.606Z"
     },
     "windows": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.12-canary/SpectacleServer_7.9.12_x64-setup.exe",
-      "filename": "SpectacleServer_7.9.12_x64-setup.exe",
-      "version": "7.9.12",
-      "pub_date": "2026-10-18T02:07:43.189Z"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v7.9.13-canary/SpectacleServer_7.9.13_x64-setup.exe",
+      "filename": "SpectacleServer_7.9.13_x64-setup.exe",
+      "version": "7.9.13",
+      "pub_date": "2026-10-20T07:32:03.606Z"
     }
   }
 }
