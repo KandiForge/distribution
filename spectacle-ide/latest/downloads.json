@@ -1,6 +1,6 @@
 {
-  "version": "4.8.10",
-  "pub_date": "2026-10-20T05:57:04.457Z",
+  "version": "4.8.11",
+  "pub_date": "2026-10-21T04:57:40.312Z",
   "platforms": {
     "linux": {
       "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.6-canary/KandiForgeIDE_4.8.6_amd64.AppImage",
@@ -9,16 +9,16 @@
       "pub_date": "2026-10-13T18:21:24.261Z"
     },
     "macos": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.10-canary/KandiForgeIDE_4.8.10_universal.dmg",
-      "filename": "KandiForgeIDE_4.8.10_universal.dmg",
-      "version": "4.8.10",
-      "pub_date": "2026-10-20T05:57:04.457Z"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.11-canary/KandiForgeIDE_4.8.11_universal.dmg",
+      "filename": "KandiForgeIDE_4.8.11_universal.dmg",
+      "version": "4.8.11",
+      "pub_date": "2026-10-21T04:57:40.312Z"
     },
     "windows": {
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.10-canary/KandiForgeIDE_4.8.10_x64-setup.exe",
-      "filename": "KandiForgeIDE_4.8.10_x64-setup.exe",
-      "version": "4.8.10",
-      "pub_date": "2026-10-20T05:57:04.457Z"
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.11-canary/KandiForgeIDE_4.8.11_x64-setup.exe",
+      "filename": "KandiForgeIDE_4.8.11_x64-setup.exe",
+      "version": "4.8.11",
+      "pub_date": "2026-10-21T04:57:40.312Z"
     }
   }
 }
