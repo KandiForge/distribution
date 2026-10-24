@@ -1,19 +1,28 @@
 {
-  "version": "4.8.0",
-  "notes": "KandiForge IDE v4.8.0",
-  "pub_date": "2026-10-08T17:38:57.292Z",
+  "version": "4.8.1",
+  "notes": "KandiForge IDE v4.8.1",
+  "pub_date": "2026-10-24T18:29:52.362Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUdLR3RuMnY2c3pNalFXdVRUOER1V3hsaXlRd3hNaDRRRGtjc1lwWVcwVm02SnYvOVNzU0ExVHFHK1l4a0h0VWhlVlBCYTdQMy92Qk5ic2J2dDNuR3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgwODQ4CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6Cnd3VkF0Nlp5TWwwQkpITysrSUFLR2EwOUhXdlptSi9CcTFwU3VJTUV2QlhwUTZ6eHE5ckxEVi85OW1MZ3lORldFQjlCN0xQNmc2WFdEb0lTdTdBM0NRPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.0-canary/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1UMGRjSFZOTzNUWUtaSERRQTBKSjlsRnRTbGtUY05XS1lxSnJvYUxYOHBOaU5lU0NlL1lJNGU0c3FzYlpLY0xNZ3JoYld2U3doaitVRFBnK2loOVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2MjU0CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6CnpzaWJTZjBTOHBBNkNkQzVUVmdaSWVSWHgyUlJuTjBSVTlUbzZpUDVLYkxwb3Nwa1BheVd1SmI2c1JLdVR1dzNhQ21CdTVleUxTeHZldWVydG9WdENRPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.1-stable/KandiForgeIDE.app.tar.gz",
+      "version": "4.8.1",
+      "pub_date": "2026-10-24T18:29:52.362Z",
+      "notes": "KandiForge IDE v4.8.1"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUdLR3RuMnY2c3pNalFXdVRUOER1V3hsaXlRd3hNaDRRRGtjc1lwWVcwVm02SnYvOVNzU0ExVHFHK1l4a0h0VWhlVlBCYTdQMy92Qk5ic2J2dDNuR3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDgwODQ4CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6Cnd3VkF0Nlp5TWwwQkpITysrSUFLR2EwOUhXdlptSi9CcTFwU3VJTUV2QlhwUTZ6eHE5ckxEVi85OW1MZ3lORldFQjlCN0xQNmc2WFdEb0lTdTdBM0NRPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.0-canary/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1UMGRjSFZOTzNUWUtaSERRQTBKSjlsRnRTbGtUY05XS1lxSnJvYUxYOHBOaU5lU0NlL1lJNGU0c3FzYlpLY0xNZ3JoYld2U3doaitVRFBnK2loOVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY2MjU0CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6CnpzaWJTZjBTOHBBNkNkQzVUVmdaSWVSWHgyUlJuTjBSVTlUbzZpUDVLYkxwb3Nwa1BheVd1SmI2c1JLdVR1dzNhQ21CdTVleUxTeHZldWVydG9WdENRPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.1-stable/KandiForgeIDE.app.tar.gz",
+      "version": "4.8.1",
+      "pub_date": "2026-10-24T18:29:52.362Z",
+      "notes": "KandiForge IDE v4.8.1"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUlJSmxUcWtJbGtCa25NTGlJaGZjU0tCK1ZHVVY1UGYzTmhrbGtnL3o5b3FsRlRxVkpUNURFa2ZISTd1d081UEdGc0hneU04aHBwa1ZYMEJCOFBzc2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNDc4OTkxCWZpbGU6S2FuZGlGb3JnZUlERV80LjguMF94NjQtc2V0dXAuZXhlCjBET09id1dFOW1hUVJHSDlONzZFVGp3ald0bTFuUzUwSDNvOWFja2d2YkMxdlNZYjNYZFZkRmhQaHFjeklkNGFNZTE0aFZYZHh4VjRFdUVhdlNpRUR3PT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.0-canary/KandiForgeIDE_4.8.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUFQbnM3d2lEc21ES2JKZzREQ0V3SU1MZlJraE11Y0pkSHZ4QU5heTFSb05Rc3J3SDdyWkJMTGNzeTRlYSsrYW04clNYdzEvcnJ1UDJGYTZKM1VnWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODY1NDU0CWZpbGU6S2FuZGlGb3JnZUlERV80LjguMV94NjQtc2V0dXAuZXhlCnlyeDh6aG41QXV0VDZVTFRocldNYmRPRDcxNS92RklyN1NRRDRyN0Q4TDlPMnkreG1RQWVGY0Fwa2JMK1k3RGRLUGU3cEI2WWhsZW1RVTdTQ0drTUN3PT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.8.1-stable/KandiForgeIDE_4.8.1_x64-setup.exe",
+      "version": "4.8.1",
+      "pub_date": "2026-10-24T18:29:52.362Z",
+      "notes": "KandiForge IDE v4.8.1"
     }
   }
 }
