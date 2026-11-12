@@ -1,28 +1,28 @@
 {
-  "version": "13.0.28",
-  "notes": "Kandi Office v13.0.28",
-  "pub_date": "2026-11-09T22:10:19Z",
+  "version": "13.0.29",
+  "notes": "Kandi Office v13.0.29",
+  "pub_date": "2026-11-12T09:09:30Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUM0bGlDTUl2cEtSclNwOFc0RlJmWi8xVG1SZnhsaW5jU0RrWmptcUc2cThPeDJhMHQ1KzA2cCtHaGdRT0wxSUhMeHhTeUNRblJ5dDhFN1BPdFlOV0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYxMzc3CWZpbGU6S2FuZGlPZmZpY2UtdjEzLjAuMjgtbWFjb3MtYXJtNjQuYXBwLnRhci5negpGaHNTam1zY2NRMFdZV1pTR1FmODRzTjRJRTlJVGorcU5kK0tpWHhjcytKNGpEZytIbjdUdCtaa1c2bFlTV1JkeThaSUgveGcwSHgxZE9LcXV3MUtBUT09Cg==",
-      "url": "https://github.com/KandiForge/distribution/releases/download/office-v13.0.28/KandiOffice-v13.0.28-macos-arm64.app.tar.gz",
-      "version": "13.0.28",
-      "pub_date": "2026-11-09T22:10:19Z",
-      "notes": "Kandi Office v13.0.28"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU9zNC9GTVlFb3EzR3lOMStJelR4Tk5RZXlUVEhBaXo2aGhyd3o0Q1hhSUoreHJkUFFNWnRUbGJ5U1NXRDhkVW81VlNZUTVpMTQzekM3RW5UcGpSUmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDczNTEwCWZpbGU6S2FuZGlPZmZpY2UtdjEzLjAuMjktbWFjb3MtYXJtNjQuYXBwLnRhci5negpYdFFxZHVzUnkyZGRCK3pQUXo1Y1lxbW5jaEhRZE1kMm45ZnlScjVNdU5HakRra1NUMjIrZmpBOHFzS1N3bzRldUhaSi8zWlVOV3NTY01RV0RKSWtDUT09Cg==",
+      "url": "https://github.com/KandiForge/distribution/releases/download/office-v13.0.29/KandiOffice-v13.0.29-macos-arm64.app.tar.gz",
+      "version": "13.0.29",
+      "pub_date": "2026-11-12T09:09:30Z",
+      "notes": "Kandi Office v13.0.29"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU1XTDhXZThRcTMrb0ZJcnRabFlPL0NVSU5lblVvakNVb05SL1hQMDBDaW5TUHM0dG1FRUlNaUFkS2Npd2wrNitxVGdiMVdBeFRtR0ViVjFPSU9mMEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYyMDU2CWZpbGU6S2FuZGlPZmZpY2UtdjEzLjAuMjgtbWFjb3MteDg2XzY0LmFwcC50YXIuZ3oKSkxMN0tzVk9TTmwzKzA0Z2JGcGRIMWc5Rkc5Ym9uOCt3Vnpackk2V3NHVlF0MFhFaldnekNCUVBuSGJDTXZRWHJjbkQzeGo4REJKRGdreW45elZzQXc9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/office-v13.0.28/KandiOffice-v13.0.28-macos-x86_64.app.tar.gz",
-      "version": "13.0.28",
-      "pub_date": "2026-11-09T22:10:19Z",
-      "notes": "Kandi Office v13.0.28"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUdzK3E1bnJvOHoxdnVYUFVpSGRsVVl0My9iRk9LV3JQWE9JTVo3ZFR1T0pmb2F2VXdubnBCQlZ4R0ZHOTVkdENVMkJYd0V6Nit4ZlN0QXExaFlISXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDc0NDIyCWZpbGU6S2FuZGlPZmZpY2UtdjEzLjAuMjktbWFjb3MteDg2XzY0LmFwcC50YXIuZ3oKV3l0cTgyZ1dBRnBFSXBvTjlTbUIyb0Z5dEppNVh3c3k5WDl2TlMyaU5udkg3dWVYQWI0ZEtpb05WSm1rV1FIbGNiOTBmNmQ2YWlSa2NQNnFtNkVyQVE9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/office-v13.0.29/KandiOffice-v13.0.29-macos-x86_64.app.tar.gz",
+      "version": "13.0.29",
+      "pub_date": "2026-11-12T09:09:30Z",
+      "notes": "Kandi Office v13.0.29"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUtTdUEyV0JXVFczNGJxNWJLdi9tMVJwRm5zUUtBelRXM2RVOS9jVGU2VWs3MXZ3WDhIU3lRQXB1UFEzRm1vSHV2ZEZoM3cvVDJNNEN0T2wrRDdrYVEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MjYxMjkzCWZpbGU6S2FuZGlPZmZpY2UtdjEzLjAuMjgtd2luZG93cy14NjQtc2V0dXAuZXhlCmlHb3NLUVFSNDhHdXZHZkF3MlNVYjhaV2NXVERuRHd1cW9OdzJuN1d4L2lJOHp4VlJ1ZW5heGE2VyswNUZzWlNPMDJ1czVLeHpEeFpSZzhXOHJLMERBPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/office-v13.0.28/KandiOffice-v13.0.28-windows-x64-setup.exe",
-      "version": "13.0.28",
-      "pub_date": "2026-11-09T22:10:19Z",
-      "notes": "Kandi Office v13.0.28"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUI5ZEwwZExYeTQ4NVNaekpURGkyRWkyK2hiOXBiSG8zWm1NcUw1Um5UNnc0K0czUmphZi9tODRlbFhuWHkxQ2IwdUtONVdYdHdXRW1oZHZCbUxBOFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDczMzM5CWZpbGU6S2FuZGlPZmZpY2UtdjEzLjAuMjktd2luZG93cy14NjQtc2V0dXAuZXhlClNpOWlBTlNiaDg3VzdDMmxOOVRQVU1BbHVXVWY4djFNOHZrdnJlOEdUOEZxTVJ0b0tlNzRONWJFbHpVTTVuT2lmTTdEOVk3a3A2MHlDT3BRSzNFVkN3PT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/office-v13.0.29/KandiOffice-v13.0.29-windows-x64-setup.exe",
+      "version": "13.0.29",
+      "pub_date": "2026-11-12T09:09:30Z",
+      "notes": "Kandi Office v13.0.29"
     }
   }
 }
