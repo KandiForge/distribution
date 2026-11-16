@@ -1,19 +1,28 @@
 {
-  "version": "4.6.1",
-  "notes": "KandiForge IDE v4.6.1",
-  "pub_date": "2026-08-10T23:46:21.645Z",
+  "version": "13.0.5",
+  "notes": "KandiForge IDE v13.0.5",
+  "pub_date": "2026-11-16T05:31:04.851Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUxNclROeVpvblJ5c0dPMndxeWN0d1BxdUFZamF1c0k4cEtuUGhtcmxzcEhlenN2OGlkeUNOS0orN255Y0MzTTd0N09vSE5nbE5LOGF4ay80OGgzT3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA1MjI3CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6ClNsSmdSRSs5dzJUQlh4WENGN3g0NkpFTmR5TGlITEVzN2Q3cXV5aS9LUGJ0Y0VxamdkR0NPblRLRVBYcStKNG9WZlk0b2FSYytZOG9EZW9SSk1DK0JBPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.1-beta/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUprdmpaRFp2c1kwdlVCRklrVWxmNVBoUUJ2SWdielkzOXBHTENOTlphNWJzdTJndUdFQXE5b0k4YnErb0lpK2tvaWs2Uk1vQXRPNTNaZ1JSdDE4bEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA2MTQ1CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6CndVdGRNR1ZHYTNHRkJWYXFTUXdOOHVEdUsyVGpFM2lSRnRidUlQYXZ1N3hYMmp2YXhyaGR4dlo2Tk9HNzNWSmhSTHdrSHBvOEVLazF3QjZ5TWVTbkJBPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v13.0.5-canary/KandiForgeIDE.app.tar.gz",
+      "version": "13.0.5",
+      "pub_date": "2026-11-16T05:31:04.851Z",
+      "notes": "KandiForge IDE v13.0.5"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUxNclROeVpvblJ5c0dPMndxeWN0d1BxdUFZamF1c0k4cEtuUGhtcmxzcEhlenN2OGlkeUNOS0orN255Y0MzTTd0N09vSE5nbE5LOGF4ay80OGgzT3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA1MjI3CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6ClNsSmdSRSs5dzJUQlh4WENGN3g0NkpFTmR5TGlITEVzN2Q3cXV5aS9LUGJ0Y0VxamdkR0NPblRLRVBYcStKNG9WZlk0b2FSYytZOG9EZW9SSk1DK0JBPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.1-beta/KandiForgeIDE.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUprdmpaRFp2c1kwdlVCRklrVWxmNVBoUUJ2SWdielkzOXBHTENOTlphNWJzdTJndUdFQXE5b0k4YnErb0lpK2tvaWs2Uk1vQXRPNTNaZ1JSdDE4bEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA2MTQ1CWZpbGU6S2FuZGlGb3JnZUlERS5hcHAudGFyLmd6CndVdGRNR1ZHYTNHRkJWYXFTUXdOOHVEdUsyVGpFM2lSRnRidUlQYXZ1N3hYMmp2YXhyaGR4dlo2Tk9HNzNWSmhSTHdrSHBvOEVLazF3QjZ5TWVTbkJBPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v13.0.5-canary/KandiForgeIDE.app.tar.gz",
+      "version": "13.0.5",
+      "pub_date": "2026-11-16T05:31:04.851Z",
+      "notes": "KandiForge IDE v13.0.5"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMVBvemY5MGJUZHVETHlWWFhyWkdGU1pMcU4vclA0MUdBMVRycDU3NWtDWE5kbDNkTURSekI0ZGVaWlJ5dUZ5YUcrRDV4YWozL285Z1JXVUxvWUxFb1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NDA0MDY0CWZpbGU6S2FuZGlGb3JnZUlERV80LjYuMV94NjQtc2V0dXAuZXhlCll0WkxUOWd3S3QwWjcya3hmSFNOMHVodU0zUnl1dElXN2cwRjVpUlVjSm9MRWgzZzhVcjZ5VWMva1JFNzlRSmJIbU5HbDlRZkNKVk9sL3J0N296UkNnPT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v4.6.1-beta/KandiForgeIDE_4.6.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUZCZmtITkF3Y0xEOWxEdWpaeno0ZHZOSENBQXlHdE5iQUdjek5IWjk0QzVBdVBtQ0pqR3FJNXB5cWNia2lNZ0JTYlFYRFBIYjZCZ1hhdm9VUXMwSHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODAyOTEyCWZpbGU6S2FuZGlGb3JnZUlERV8xMy4wLjVfeDY0LXNldHVwLmV4ZQo3a1R0Z0VtOExoMU9Wd0pOVlRMelZORmNUUllCckJWblZzdTJ1VHpMaFk1VmUvNTJ5TjdlbjNCMHJjeHdUMHZqUm5ydW9vR3pTYzJPMEF2NDVLazRCUT09Cg==",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-gui-v13.0.5-canary/KandiForgeIDE_13.0.5_x64-setup.exe",
+      "version": "13.0.5",
+      "pub_date": "2026-11-16T05:31:04.851Z",
+      "notes": "KandiForge IDE v13.0.5"
     }
   }
 }
