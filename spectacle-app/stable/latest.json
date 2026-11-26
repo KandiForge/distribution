@@ -1,28 +1,28 @@
 {
-  "version": "15.0.4",
-  "notes": "Spectacle Server v15.0.4",
-  "pub_date": "2026-11-22T22:41:46.405Z",
+  "version": "16.0.2",
+  "notes": "Spectacle Server v16.0.2",
+  "pub_date": "2026-11-26T06:22:57.486Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUU0NmlmWU45RzZGQmdlSmV1ZVVBclpWZ2pPY3RkNG9WUW9NTSs4WjM3azVqL1RndC9HVmI0dVUxeDlneW1OMDB5VHh0ZUlDSURiTWFnNFlzQ3UwWkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzg2OTQyCWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKaDMzemdFeUZQSUZjRGt2TXd0Wm1FSlNNNW1KWTg1ZThhY3I2YmVNWnhsWlVBaE9iSDRpSFBhQnZoSm9vck9nZmpSdk9pNytpZ3drSmhlc2RJa09GQVE9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v15.0.4-canary/SpectacleServer.app.tar.gz",
-      "version": "15.0.4",
-      "pub_date": "2026-11-22T22:41:46.405Z",
-      "notes": "Spectacle Server v15.0.4"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUxDMWV4RnROTHNVUXlKUjhxakJrSHBhMDl0RXZ4TXdMa1phTkt2SzE1NGRrVCs2Vm1lL0J3VU1LMnl3UGlTdWhzVWE0K3Vxb0JNK2diVFRIUEFRUHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjczOTI3CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKNjRyK3NMYnpFc1QvQjBmWDFxU1VEVnVOOVJjV0ovTXhwQWNaMWJEVTVtOXRNc1I0TW00Vy8yOXRGN0daWGJUN3hRN3BjTEF6RFBrcWJCa1FEVlkxQnc9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v16.0.2-canary/SpectacleServer.app.tar.gz",
+      "version": "16.0.2",
+      "pub_date": "2026-11-26T06:22:57.486Z",
+      "notes": "Spectacle Server v16.0.2"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUU0NmlmWU45RzZGQmdlSmV1ZVVBclpWZ2pPY3RkNG9WUW9NTSs4WjM3azVqL1RndC9HVmI0dVUxeDlneW1OMDB5VHh0ZUlDSURiTWFnNFlzQ3UwWkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzg2OTQyCWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKaDMzemdFeUZQSUZjRGt2TXd0Wm1FSlNNNW1KWTg1ZThhY3I2YmVNWnhsWlVBaE9iSDRpSFBhQnZoSm9vck9nZmpSdk9pNytpZ3drSmhlc2RJa09GQVE9PQo=",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v15.0.4-canary/SpectacleServer.app.tar.gz",
-      "version": "15.0.4",
-      "pub_date": "2026-11-22T22:41:46.405Z",
-      "notes": "Spectacle Server v15.0.4"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUxDMWV4RnROTHNVUXlKUjhxakJrSHBhMDl0RXZ4TXdMa1phTkt2SzE1NGRrVCs2Vm1lL0J3VU1LMnl3UGlTdWhzVWE0K3Vxb0JNK2diVFRIUEFRUHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjczOTI3CWZpbGU6U3BlY3RhY2xlU2VydmVyLmFwcC50YXIuZ3oKNjRyK3NMYnpFc1QvQjBmWDFxU1VEVnVOOVJjV0ovTXhwQWNaMWJEVTVtOXRNc1I0TW00Vy8yOXRGN0daWGJUN3hRN3BjTEF6RFBrcWJCa1FEVlkxQnc9PQo=",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v16.0.2-canary/SpectacleServer.app.tar.gz",
+      "version": "16.0.2",
+      "pub_date": "2026-11-26T06:22:57.486Z",
+      "notes": "Spectacle Server v16.0.2"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUYxamx5aWJFVEZ4R29kbkxtck4rYjF2MDBmR1dRNkl4ZVIzOW1CQVgxOUMyei8ySjVzVDBtTnl3Q3VyRXZBcTNFYWt2UExQeHFxMVBJa3ZKdkRaUWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Mzg2NjYxCWZpbGU6U3BlY3RhY2xlU2VydmVyXzE1LjAuNF94NjQtc2V0dXAuZXhlClJaRXVldm1LM0tCTHI3OTc1cWxjQkNPWDFOaDFkcitHUktkelc0L3BONUxRNGdIQzM4aU13Z09ROWt2ZTFFaXVVOXB5OUpQNlF4ZXBHcWdRa3NIUEJ3PT0K",
-      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v15.0.4-canary/SpectacleServer_15.0.4_x64-setup.exe",
-      "version": "15.0.4",
-      "pub_date": "2026-11-22T22:41:46.405Z",
-      "notes": "Spectacle Server v15.0.4"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMUQwM3liamJwTnVua2ZIUjBGcThmdzlyd2k4aVVoaGM4NkVmYVhkMDJWaHRSazI3YStRUk1DSE13VFV4TGE0QTZEZzBXQlJLMmNRYm5wTCsvK0pxandjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njc0MDMzCWZpbGU6U3BlY3RhY2xlU2VydmVyXzE2LjAuMl94NjQtc2V0dXAuZXhlCkNUTmgzcUpma0plSWlSTlVHRy92L3RhZi9SbGdSRnpZcVhsdC9CaFJwbkgzRU01MzlVL0JGcUw2YnN1T1dRZldscWw1bDVIalQ3dlRFNmJENDJHdkFnPT0K",
+      "url": "https://github.com/KandiForge/distribution/releases/download/spectacle-app-v16.0.2-canary/SpectacleServer_16.0.2_x64-setup.exe",
+      "version": "16.0.2",
+      "pub_date": "2026-11-26T06:22:57.486Z",
+      "notes": "Spectacle Server v16.0.2"
     },
     "linux-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcEdPZ0NSanpZMU4zTEFpSGE0Y2x0Qk02YWRDdG05UFErUjdSNCthODJyVlJIOEUyUHNPUWJyTXowMkp0QnJXUCtid29jMGV3T05RM2IvbGU3ZFhLZzJMemp5dkJhRVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDQ0MDg3CWZpbGU6U3BlY3RhY2xlU2VydmVyXzcuOS4xNl9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjcuOS4xNgowd3V3UXdZZlZ1NTRHRFI0RmlXSC9sa0hFVjJoR1lYV2JYZG4vYjRuMDhxNHpnVERjQTJlcFZXMGg0UFFoWjdaRDEyU2c4SGJ1SFRaWlJFdzFCN1VBUT09Cg==",
